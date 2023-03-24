@@ -1,5 +1,5 @@
 PICでUSBホストやりたい(#4)受信してみる<br>
-https://www.youtube.com/watch?v=hNO4U99Xt-o<br>
+https://youtu.be/sksAvuQ6NdA<br>
 <br>
 「IchigoJamでUSBキーボードを使いたい」ってのがUSBを始めたきっかけ。<br>
 C言語分からないので、数年がかりでなんとかなりました。<br>
